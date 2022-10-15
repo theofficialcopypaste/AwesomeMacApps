@@ -1,17 +1,18 @@
-Lists of my favourite free mac apps:
+# Awesome Mac Apps
+**Lists of my favourite free mac apps:**
 
 ## Audio
 
 - blackhole-16ch
 	- **Details:** Virtual Audio Driver
-  - **Requirement:** [Homebrew](https://formulae.brew.sh)
+  	- **Requirement:** [Homebrew](https://formulae.brew.sh)
 	- **Install:** 
 	```bash
 	brew install --cask blackhole-16ch
 	```
 - cog
 	- **Details:** Audio player
-  - **Requirement:** [Homebrew](https://formulae.brew.sh)
+  	- **Requirement:** [Homebrew](https://formulae.brew.sh)
 	- **Install:** 
 	```bash
 	brew install --cask cog
@@ -21,7 +22,7 @@ Lists of my favourite free mac apps:
 
 - Onyx
 	- **Details:** Verify system files structure, run miscellaneous maintenance and more
-  - **Requirement:** [Homebrew](https://formulae.brew.sh)
+  	- **Requirement:** [Homebrew](https://formulae.brew.sh)
 	- **Install:** 
 	```bash
 	brew install --cask onyx
@@ -29,7 +30,7 @@ Lists of my favourite free mac apps:
 
 - AppCleaner
 	- **Details:** Application uninstaller
-  - **Requirement:** [Homebrew](https://formulae.brew.sh)
+  	- **Requirement:** [Homebrew](https://formulae.brew.sh)
 	- **Install:** 
 	```bash
 	brew install --cask appcleaner
@@ -39,14 +40,14 @@ Lists of my favourite free mac apps:
 
 - EFI Agent
 	- **Details:** Simple, low resource, efficient and no frills tool to mount EFI partitions
-  - **Requirement:** [Github/Headkaze](https://github.com/headkaze/)
+  	- **Requirement:** [Github/Headkaze](https://github.com/headkaze/)
 	- **Link:** 
 	```bash
 	https://github.com/headkaze/EFI-Agent
 	```
 
 - Hackintool
-  - **Details:** Hackintosh patching tool
+  	- **Details:** Hackintosh patching tool
 	- **Requirement:** [Homebrew](https://formulae.brew.sh)
 	- **Link:** 
 	```bash
@@ -55,7 +56,7 @@ Lists of my favourite free mac apps:
 
 - hex-fiend
 	- **Details:** Hex editor focussing on speed
-  - **Requirement:** [Homebrew](https://formulae.brew.sh)
+  	- **Requirement:** [Homebrew](https://formulae.brew.sh)
 	- **Link:** 
 	```bash
 	brew install --cask hex-fiend
@@ -63,14 +64,14 @@ Lists of my favourite free mac apps:
 
 - mos
 	- **Details:** Smooths scrolling and set mouse scroll directions independently
-  - **Requirement:** [Homebrew](https://formulae.brew.sh)
+  	- **Requirement:** [Homebrew](https://formulae.brew.sh)
 	- **Link:** 
 	```bash
 	brew install --cask mos
 	```
 
 - Tiles
-  - **Details:** Window manager
+  	- **Details:** Window manager
 	- **Requirement:** [Homebrew](https://formulae.brew.sh)
 	- **Install:** 
 	```bash
@@ -81,7 +82,7 @@ Lists of my favourite free mac apps:
 
 - archey4
 	- **Details:** Simple system information tool written in Python
-  - **Requirement:** [Homebrew](https://formulae.brew.sh)
+  	- **Requirement:** [Homebrew](https://formulae.brew.sh)
 	- **Link:** 
 	```bash
 	brew install archey4
@@ -92,7 +93,7 @@ Lists of my favourite free mac apps:
 
 - eul
 	- **Details:** Status monitoring
-  - **Requirement:** [Homebrew](https://formulae.brew.sh)
+  	- **Requirement:** [Homebrew](https://formulae.brew.sh)
 	- **Link:** 
 	```bash
 	brew install --cask eul
@@ -101,7 +102,7 @@ Lists of my favourite free mac apps:
 ### Text
 
 - Obsidian
-  - **Details:** Knowledge base that works on top of a local folder of plain text Markdown files
+  	- **Details:** Knowledge base that works on top of a local folder of plain text Markdown files
 	- **Requirement:** [Homebrew](https://formulae.brew.sh)
 	- **Link:** 
 	```bash
@@ -112,7 +113,7 @@ Lists of my favourite free mac apps:
 
 - obs
 	- **Details:** Open-source software for live streaming and screen recording
-  - **Requirement:** [Homebrew](https://formulae.brew.sh)
+  	- **Requirement:** [Homebrew](https://formulae.brew.sh)
 	- **Link:** 
 	```bash
 	brew install --cask obs
@@ -121,7 +122,7 @@ Lists of my favourite free mac apps:
 ### Monitor Control
 
 - NativeDisplayBrightness
-  - **Details:** Open-source NativeDisplayBrightness apps
+  	- **Details:** Open-source NativeDisplayBrightness apps
 	- **Requirement:** [Homebrew](https://formulae.brew.sh)
 	- **Link:** 
 	```bash
