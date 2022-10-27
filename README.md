@@ -1,6 +1,12 @@
 # Awesome Mac Apps
 **Lists of my favourite free mac apps:**
 
+**Important Recipe:**  
+
+```zsh
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
+
 ## Audio
 
 - blackhole-16ch
