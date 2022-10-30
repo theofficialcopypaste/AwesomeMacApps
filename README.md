@@ -16,6 +16,8 @@
 	```bash
 	brew install --cask blackhole-16ch
 	```
+> **Note**: macOS Ventura doesn't require this for audio production, OBS and etc.
+
 - cog
 	- **Details:** Audio player
   	- **Requirement:** [Homebrew](https://formulae.brew.sh)
