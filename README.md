@@ -46,6 +46,14 @@
 
 ### Tools
 
+- [Cakebrew](https://www.cakebrew.com)
+	- **Details:** The Mac App for Homebrew
+  	- **Requirement:** [Homebrew](https://formulae.brew.sh)
+	- **Link:** 
+	```bash
+	brew install cakebrew
+	```
+
 - EFI Agent
 	- **Details:** Simple, low resource, efficient and no frills tool to mount EFI partitions
   	- **Requirement:** [Github/Headkaze](https://github.com/headkaze/)
